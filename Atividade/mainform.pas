@@ -123,7 +123,7 @@ begin
     fraction:=10;
     xstep := w div fraction;
     ystep := h div fraction;
-    step  := 0.03;
+    step  := 0.1;
     tx    := -5;
     ty    := 5;
 
